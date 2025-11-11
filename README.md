@@ -1,4 +1,4 @@
-# EduTech Portal - Proyecto Sprint 1
+# EduTech Portal - Proyecto Sprint
 
 ## 🧑‍💻 Roles del Equipo
 * **Product Owner (PO):** AMOR Ariel
