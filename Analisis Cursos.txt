@@ -1,0 +1,5 @@
+Feature/HU-02
+
+Requerimos que cada curso pueda obtenerse y visualizar sus caracteristicas e inscriptos.
+
+El Cliente debéra acceder a cada Endpoint para visualizar los cursos.
